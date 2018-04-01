@@ -1,0 +1,16 @@
+Three Observable Trends:
+  1. Looking at the Temperature v. Latitude graph, it does make sense that there is a negative correlation
+     between the two variables; the temperature decreases as the latitude increases.  I did notice how there 
+     are more data points in the latitudes that coorelate with North America and Europe.  This doesn't necessarly
+     mean that the sample isn't representative of the overall dataset.  The global south doesn't have near the amount
+     of land mass that the global north has, therefore it is logical that there are less cities.
+     
+  2.  There doesn't seem to be any real relationship between cloudiness and latitude.  There are very straight
+      horizontal lines throughout the graph, but there are too many data points in random areas to give the lines
+      any relavence.
+      
+  3.  It was curious that although there was a negative relationship between temperature and latitude, there seemed 
+      to be a cluster of data in the top right corner of the humidity v latitude graph.  I usually associate humidity
+      and heat with one another.  It does however make sense that there isn't a explicit relationship, positive,
+      or negative between Humidity and Latitude, due to air streams, ocean currents, and topigraphical features,
+      obviously there won't always be high humidity where there are higher temperatures.
